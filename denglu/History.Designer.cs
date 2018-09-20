@@ -228,9 +228,9 @@
             this.lblPageCount.ForeColor = System.Drawing.Color.Red;
             this.lblPageCount.Location = new System.Drawing.Point(110, 596);
             this.lblPageCount.Name = "lblPageCount";
-            this.lblPageCount.Size = new System.Drawing.Size(53, 12);
+            this.lblPageCount.Size = new System.Drawing.Size(11, 12);
             this.lblPageCount.TabIndex = 256;
-            this.lblPageCount.Text = "10000000";
+            this.lblPageCount.Text = "0";
             // 
             // lblSept
             // 
@@ -247,9 +247,9 @@
             this.lblTotalCount.ForeColor = System.Drawing.Color.Red;
             this.lblTotalCount.Location = new System.Drawing.Point(229, 596);
             this.lblTotalCount.Name = "lblTotalCount";
-            this.lblTotalCount.Size = new System.Drawing.Size(59, 12);
+            this.lblTotalCount.Size = new System.Drawing.Size(11, 12);
             this.lblTotalCount.TabIndex = 254;
-            this.lblTotalCount.Text = "100000000";
+            this.lblTotalCount.Text = "0";
             // 
             // lblCurrentPage
             // 
@@ -258,7 +258,7 @@
             this.lblCurrentPage.Name = "lblCurrentPage";
             this.lblCurrentPage.Size = new System.Drawing.Size(35, 12);
             this.lblCurrentPage.TabIndex = 253;
-            this.lblCurrentPage.Text = "10000";
+            this.lblCurrentPage.Text = "0";
             this.lblCurrentPage.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
             // endbtn
